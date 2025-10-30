@@ -12,11 +12,10 @@
         <li><a href="">Projects</a></li>
         <li><a href="">Contact</a></li>
     </ol>
+<h1>Welcome To My Profile</h1>
+<p>Hello I am A webdevlopment Student This is My port folio</p>
 
-    <h1>Welcome To My Profile</h1>
-    <p>Hello I am A webdevlopment Student This is My port folio</p>
-
-    <h1>About Me</h1>
+<h1>About Me</h1>
     <img src="" alt="MY Photo">
     <p>I am Passionate about learning web devlopment and building Creative Project</p>
     <h1>My Projects</h1>
@@ -26,14 +25,14 @@
         <li>Website Making</li>
     </ul>
 
-    <h1>Techanical Skill</h1>
+<h1>Techanical Skill</h1>
     <table border="2">
         <tr>
             <th>Skill</th>
             <th>Level</th>
         </tr>
 
-        <tr>
+<tr>
             <td>Creating Ads</td>
             <td>Now Doing Better</td>
         </tr>
@@ -41,11 +40,10 @@
             <td>Speaking To Client</td>
             <td>Beginner</td>
         </tr>
-
     </table>
 
 
-    <h1>Contact Me</h1>
+<h1>Contact Me</h1>
     <Forms>
         <label for="name">Name</label>
         <input type="name" id="name" placeholder="Enter Your Name"></input><br>
@@ -55,6 +53,6 @@
         <input type="textbox" id="text" placeholder="Enter The Message"></input><br>
         <button type="Submit">Submit</button>
 
-    </Forms>
+</Forms>
 </body>
 </html>
